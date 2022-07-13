@@ -1,0 +1,18 @@
+{
+    "adresar": [{
+        "ime": "Pero",
+        "prezime": "Perić",
+        "email": "pero@mail.com",
+        "brojtel": "+385981234567",
+        "adresa": "Radnicka 2, Zagreb",
+        "datrod": "1987-03-12"
+    },
+	{
+        "ime": "Miro",
+        "prezime": "Miric",
+        "email": "pero@mail.com",
+        "brojtel": "+385981234567",
+        "adresa": "Radnicka 2, Zagreb",
+        "datrod": "1987-03-12"
+    }]
+}
